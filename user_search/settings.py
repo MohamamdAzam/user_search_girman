@@ -63,6 +63,7 @@ CORS_ALLOW_ALL_ORIGINS = True
 CORS_ALLOWED_ORIGINS = [
     'http://127.0.0.1:3000',  # Your frontend domain
     'http://localhost:3000',  # If you're running React or Angular locally
+    'https://user-search-girman.onrender.com'
 ]
 
 
